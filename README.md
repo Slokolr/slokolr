@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+
+
+git config --global user.name "Sielalla Lemessa”
+git config --global user.email "lemessasielalla@gmail.com"
+
+
